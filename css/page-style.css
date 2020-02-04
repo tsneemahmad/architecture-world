@@ -3,12 +3,12 @@ body {
 }
 
 header h1 {
-    background-color: cadetblue;
+    background-color: black;
     color: darkgray;
  }
 
  nav ul { 
-     display: inline;
+     display: inline-block ;
      text-decoration: none;
      font-size: 35px;
  }
