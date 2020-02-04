@@ -3,18 +3,34 @@ body {
 }
 
 header h1 {
-    background-color: black;
+    background-color: cadetblue;
     padding: 25px;
-    color: darkgray;
+    color: white;
  }
 
- nav ul { 
-     display: inline-block ;
-     text-decoration: none;
-     font-size: 10px;
+ nav {
+     background-color: cadetblue;
  }
+ ul li { 
+     padding: 10px;
+     display: inline-block;
+     text-decoration: none;
+     font-size: 20px;
+     color: white;
+ }
+
+.list {
+    color: white;
+    padding: 50px
+}
 
  img {
      width: 500px;
      height: 200px;
+ }
+
+ footer p {
+     text-align: center;
+     background-color: cadetblue;
+     color: white;
  }
