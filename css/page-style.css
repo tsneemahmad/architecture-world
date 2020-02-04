@@ -1,0 +1,10 @@
+header h1 {
+    background color: baby blue;
+    color: dark blue;
+ }
+
+ nav ul { 
+     display: inline;
+     text text-decoration: none;
+     font size: 30px; 
+ }
